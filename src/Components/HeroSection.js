@@ -44,7 +44,7 @@ const TextWrapper = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  margin-top: 3rem;
+  margin-top: 8rem;
   margin-left: 8rem;
   @media (max-width: 1025px) {
     margin-top: 0;
